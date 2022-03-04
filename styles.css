@@ -1,0 +1,26 @@
+html {
+    background-color: cornsilk;
+}
+#header {
+    font-size: 40px;
+    margin: 20px 0px 0px 20px;
+}
+
+#list li{
+    margin: 8px 0;
+}
+
+.title {
+    font-size: 70px;
+    text-align: center;
+    margin: 35px 0px;
+    color: orange;
+}
+
+.image {
+    width: 50%;
+    height :auto;
+    max-height: 800px;
+    display: block;
+    margin: 0 auto 40px;
+}
