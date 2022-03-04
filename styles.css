@@ -24,3 +24,28 @@ html {
     display: block;
     margin: 0 auto 40px;
 }
+
+.headings {
+    font-size: 32px;
+    margin: auto auto 15px 35px;
+}
+
+.ing{
+    margin-left: 20px;
+}
+
+.desc, .step {
+    margin-left: 35px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.ing li, .step li {
+    font-size: 25px;
+}
+
+ol li::marker {
+    font-weight:600;
+}
